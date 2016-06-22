@@ -29,15 +29,7 @@ obj/
 _ReSharper*/
 PublishProfiles/*
 *.dbmdl
-RevenueWell.DB/sql/RevenueWell/ExtendSqlViaClr.dll
-RevenueWell.DB/sql/RevenueWell/RevenueWell.DB.dbschema
-RevenueWell.DB/sql/RevenueWell/RevenueWell.DB.deploymanifest
-RevenueWell.DB/sql/RevenueWell/RevenueWell.DB_Database.sqlcmdvars
-RevenueWell.DB/sql/RevenueWell/RevenueWell.DB_Database.sqldeployment
-RevenueWell.DB/sql/RevenueWell/RevenueWell.DB_Database.sqlsettings
-RevenueWell.DB/Schema Objects/Database Level Objects/Storage/Files/RevenueWell.sqlfile.sql
-RevenueWell.DB/Schema Objects/Database Level Objects/Storage/Files/RevenueWell_log.sqlfile.sql
-RevenueWell.WebSite/Logs/*
 *.DB/Sandbox/*
 PublishProfiles
 /TestResults
+!packages/
