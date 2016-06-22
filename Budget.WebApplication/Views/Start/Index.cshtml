@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Budget.Dal.Operation>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>Hello from our View Template!</p>
+
+@{
+    var grid = new WebGrid(Model);
+}
+
+@grid.GetHtml()

@@ -1,0 +1,43 @@
+
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+PublishProfiles/*
+*.dbmdl
+RevenueWell.DB/sql/RevenueWell/ExtendSqlViaClr.dll
+RevenueWell.DB/sql/RevenueWell/RevenueWell.DB.dbschema
+RevenueWell.DB/sql/RevenueWell/RevenueWell.DB.deploymanifest
+RevenueWell.DB/sql/RevenueWell/RevenueWell.DB_Database.sqlcmdvars
+RevenueWell.DB/sql/RevenueWell/RevenueWell.DB_Database.sqldeployment
+RevenueWell.DB/sql/RevenueWell/RevenueWell.DB_Database.sqlsettings
+RevenueWell.DB/Schema Objects/Database Level Objects/Storage/Files/RevenueWell.sqlfile.sql
+RevenueWell.DB/Schema Objects/Database Level Objects/Storage/Files/RevenueWell_log.sqlfile.sql
+RevenueWell.WebSite/Logs/*
+*.DB/Sandbox/*
+PublishProfiles
+/TestResults
